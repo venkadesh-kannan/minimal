@@ -7,17 +7,17 @@ Bangalore – 560036.				Email 	:	venkadesh@gmail.com
 ## Objective:  
 	To build and lead a vibrant and proactive team to deliver best in class solutions for customers.
 ## Education details:
-•	Master of Technology in Software Systems 
+Master of Technology in Software Systems 
 BITS Pilani – CGPA – 8.67
-•	Bachelor of Engineering in Electronics and Communication Engineering
+Bachelor of Engineering in Electronics and Communication Engineering
 Bharathidasan University in April 2002 – 73 %
-•	Executive Post Graduate Program in Machine Learning & Artificial Intelligence 
+Executive Post Graduate Program in Machine Learning & Artificial Intelligence 
 IIIT-Bangalore (2024- undergoing)
-•	Post Graduate Diploma in Business Administration
+Post Graduate Diploma in Business Administration
 SYMBIOSIS – 74%
-•	Higher Secondary Examination.
+Higher Secondary Examination.
 Tamil Nadu State Board – 83%
-•	Matriculation Examination.
+Matriculation Examination.
 Percentage – 78 %
 ## Patents:
 	UTILIZING INVERTIBLE ALPHANUMERIC SLOT IDENTIFIERS ON DEVICES(pending Authorization)
